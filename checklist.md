@@ -33,8 +33,8 @@
 
 ## 2. CSS Design & Layout Checklist
 
-| CSS Feature / Technique | Target File & Selector | Student Owner |
-| :--- | :--- | :--- |
+| CSS Feature / Technique | Target File & Selector | Student Owner      |
+| :--- | :--- |:-------------------|
 | CSS Custom Properties (`:root`) | `styles.css` — `:root` | Saparkhan Shyngyskhan |
 | Typography Reset & Hierarchy | `styles.css` — `h1, h2, h3, p` | Saparkhan Shyngyskhan |
 | Flexbox Navigation Bar | `styles.css` — `.nav-list`, `.nav-link` | Turarbek Nurakhmet |
